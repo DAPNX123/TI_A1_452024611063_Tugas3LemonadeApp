@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.TI_A1_452024611063_Tugas3LemonadeApp" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
