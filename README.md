@@ -11,4 +11,4 @@ Mensimulasikan performClick() pada elemen gambar pohon.
 Memverifikasi menggunakan assertIsDisplayed() bahwa teks instruksi berubah menjadi "Keep tapping the lemon..." dan gambar berubah menjadi "Lemon".
 
 Hasil Aktual: Pengujian berhasil (Passed) yang membuktikan alur navigasi dari step 1 ke step 2 berjalan sempurna.
-(Jangan lupa sisipkan screenshot hasil running tes yang berwarna hijau di bawah teks ini).<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/15419b85-e61f-4a03-93d7-38b94ca9bb7d" />
+<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/15419b85-e61f-4a03-93d7-38b94ca9bb7d" />
